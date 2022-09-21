@@ -1,0 +1,2 @@
+The import numpy portion of the code tells Python to bring the NumPy library into your current environment.
+The as np portion of the code then tells Python to give NumPy the alias of np. This allows you to use NumPy functions by simply typing np.function_name rather than numpy.
